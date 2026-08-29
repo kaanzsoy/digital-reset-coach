@@ -73,7 +73,7 @@ Users are also advised not to enter unnecessary sensitive personal information.
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/kaanzsoy/digital-reset-coach.git
 cd digital-reset-coach
 ```
 
