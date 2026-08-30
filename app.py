@@ -9,7 +9,6 @@ load_dotenv()
 
 st.set_page_config(
     page_title="Digital Reset Coach",
-    page_icon="📱"
 )
 
 api_key = os.getenv("GEMINI_API_KEY")
